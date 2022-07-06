@@ -24,8 +24,10 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
 
 # Starter Project
-  
+
 
 My starter project was programming a potentiometer, an LED, and a servo motor using arduino. In this project I enjoyed exploring the arduino, and connecting and programming these different devices to perform tasks. However, I struggled with using the breadboard and jumper wires to connect the arduino, potentiometer, LED, and servo together.
+
+https://lh3.googleusercontent.com/H6wWkZkSlHZ_4LearVSELAk67taaDB749sjB0P8I8qMYej4NIEFBJa7LYylyeKdDMCB-idBhmbT7G37-G4iAlclovKXKbbJeYk9LKqcYS6MrrRK905OLkREobAxzAQRswmiO7O9pkT1dVPCUwuT5Lxha9BSX-wB00h0WARd9nUj_JAMW5FD9LIyihiSicFQCJ9XRyfZQmj6c9PZrNZoLUX7yur6FDrs4f696BFqAmZM341Uf5cQTz9QpCWp4HxvnIf6a9fy9C8O2nruqKB8GVSBaj1bIucHPDrWyTRvG-hTOn8Dde-cfZmouvcTh7n2W-z1ijCZZaJCyrf4YbCZNkp18sNEaFQYtd410336PZyjbH0GNxikicRvCNlaMTgQ775MzIYGIVwz5fxD7em9mjrd4IaNe-SBS2_cBZfHuELuW-wVjB3nlFpdL7Cpt9s2rDV3ZGhIzl7ryZlYuIzgHrun4kXDtUSqCsrvHSWTKznnVsP6TEkpqQifUjp4UFQVAZtmmT3oEv2Clp9VJoUgF6iX_cpY5upjUUX6Xe1fkBWBy9U2lO3pSnZkboNOfcC9El2NnbB71Qfjsv8CbAjxHwyo44QdguLFMXaNqpjBr3J478SErQ7VO_XkGxm0NmQ8W0-gnnxP8Lt3JXW6XBi2NN4Yih-0ME6LzozT-T_u4uN28pbdDWqG8QDks2LfcLRnTl3deWyf7qSrY1CFv5VnZFJTBDxbN2c_7ZruymGmQz0WbHjM9bhN1SCib-eCd5pqlKEWxngXjbY6jFIQgKYdQ7XxTAwuH0jodQzr_vfBfHIo8bFirNnMeeNfqxrasne_MNo-vaK9gKArsiTBN34D9-1LhZBB7XRgKhjcq-Cc7LxvZbsBQoddN-9pNPz41IBBeuVYeu6NhMmJgp74JFp4CkW3-XRlU-K2CAHlni9xbDHwi=w2056-h1384-no?authuser=0
 
 [![Starter Project](https://i3.ytimg.com/vi/dEDWUU-_8tA/maxresdefault.jpg)](https://youtu.be/dEDWUU-_8tA){:target="_blank" rel="noopener"}
