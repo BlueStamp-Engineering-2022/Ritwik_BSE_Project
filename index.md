@@ -28,6 +28,6 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 
 My starter project was programming a potentiometer, an LED, and a servo motor using arduino. In this project I enjoyed exploring the arduino, and connecting and programming these different devices to perform tasks. However, I struggled with using the breadboard and jumper wires to connect the arduino, potentiometer, LED, and servo together.
 
-![Circuit Design](https://photos.app.goo.gl/JGqceD1bfGgNWW8t9)
+![Circuit Design](https://imgur.com/cbbJ1ec)
 
 [![Starter Project](https://i3.ytimg.com/vi/dEDWUU-_8tA/maxresdefault.jpg)](https://youtu.be/dEDWUU-_8tA){:target="_blank" rel="noopener"}
