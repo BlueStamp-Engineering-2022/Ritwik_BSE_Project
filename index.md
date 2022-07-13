@@ -3,7 +3,7 @@ This project creates a functional door lock which opens and closes based upon th
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Ritwik Nigam | Saint Francis High School | Computer Science | Incoming Junior
+| Ritwik | Saint Francis High School | Computer Science | Incoming Junior
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLWpr7pPCQLDUqDiN9-NcsPHf-nBFKIOwLNO5tnhlps1uNwvSUM-O-VVlCm1BVA2gmbjrG3TcfVQu3OO06LVFoThpJlOyzsHBsDnk2S6oetTgsz5Q7ywEJeRpU2BF5OmQa9vyBLMukOW5TVKCQdiagY=s1624-no?authuser=0)
   
