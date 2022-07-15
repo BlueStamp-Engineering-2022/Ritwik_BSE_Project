@@ -1,3 +1,4 @@
+from espeak import espeak
 import boto3
 import botocore
 from decimal import Decimal
@@ -71,20 +72,21 @@ def guest_search(bucket, key, collection_id, image_id=None, attributes=(), regio
                         ser.reset_input_buffer()
                         time.sleep(2)
                         ser.write(b"open\n")
-                        #print("Test1")
+                        espeak.synth("Welcome!")
+#print("Test1")
                         time.sleep(5)
                         #print("Test2")
                         ser.write(b"close\n")
-                        k = 1
                     break
-        if k==1 or k == 2:
+        if k==1:
             send_email()
-        if k == 1:
-            ser.write(b"red\n")
+            espeak.synth("Access Denied")
+
         #print(response)
         return
     except botocore.exceptions.ClientError as e:
         print('No Face Found')
+        espeak.synth("Please step in front of the camera and ring the door once again.")
 
 
 
