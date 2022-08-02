@@ -25,8 +25,7 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 
 # Starter Project
 
-
-My starter project was programming a potentiometer, an LED, and a servo motor using arduino. In this project I enjoyed exploring the arduino, and connecting and programming these different devices to perform tasks. However, I struggled with using the breadboard and jumper wires to connect the arduino, potentiometer, LED, and servo together.
+The purpose of the project is to control the brightness of the LED and the angle of the servo motor using the input which is given into the potentiometer. Initially in this project, I researched about using an arduino and a breadboard, as they are key components. Using what I learned, I created a fundamental hardware design using an LED, male-to-male wires, a servo motor, a breadboard, an arduino, and a potentiometer. Having the physical aspects of my project completed, I moved on to programming the arduino so the brightness of the LED, and the angle of the servo motor would correspond to the input given into the potentiometer. To accomplish this task, I had to download the arduino software which would allow me to manipulate any device connected to the arduino through code. Once it was downloaded, I learned the commands and format of the language (a combination of python and C++). Through trial and error, I successfully mapped the angle of the potentiometer to the brightness of the LED and the angle of the servo. For instance, if I turned the potentiometer halfway, the servo would turn 90 degrees of the 180 degrees possible while the LED would light up halfway to its full potential.
 
 ![Circuit Design](https://i.imgur.com/cbbJ1ec.png)
 
